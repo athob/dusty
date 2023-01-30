@@ -130,7 +130,7 @@ subroutine rundusty(path,lpath)
            call Kernel(path,lpath,tau,Nmodel)
         end if
      else
-        print*,
+        print*
      end if
 
   end if
